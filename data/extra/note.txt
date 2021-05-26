@@ -1,0 +1,28 @@
+npx json-server --watch data/db.json --port 8000
+
+
+
+{
+      "Title": "Tumbling Chinese Rocket Expected To Re-Enter Atmosphere",
+      "Body": "Defense Secretary Lloyd Austin is being briefed regularly about the trajectory of the Long March 5B rocket core, which successfully put a portion of China's first space station into orbit last month, Pentagon spokesman John Kirby told reporters Wednesday.",
+      "Author": "Travis Tritten, Bloomberg",
+      "id": 3
+    },
+    {
+      "Title": "The Good News Is That Vaccines Work Against India Strain. The Bad News...",
+      "Body": "As infections surge by more than 300,000 cases for 14 straight days, pushing India's tally past 20 million, the country's limited ability to track new mutations emerging from its outbreak is a growing concern for scientists.",
+      "Author": "John Lauerman and Bhuma Shrivastava, Bloomberg",
+      "id": 4
+    },
+    {
+      "Title": "How Did Coronavirus Enter IPL Bio-Bubble? What Sourav Ganguly Said...",
+      "Body": "IPL 2021: Sourav Ganguly said that according to the reports the BCCI has received, there was no breach of the bubble during the now-postponed IPL 2021.",
+      "Author": "Mr. Ajay Pal Singh",
+      "id": 5
+    },
+    {
+      "Title": "College Tourist",
+      "Body": "This is platform for students from all corners of the world to write about their travelling experiences and share lush pictures of their trips. Whether you’re thinking of travelling abroad on a gap year, exchange year or during the summer holidays, this website’s a great place to start. Expect to find tips on travelling on a student budget and a rundown of cool destinations and festivals to check out.",
+      "Author": "Saurabh Verma",
+      "id": 6
+    }
